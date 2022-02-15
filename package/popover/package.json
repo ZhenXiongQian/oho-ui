@@ -1,0 +1,7 @@
+{
+  "name": "@oho-ui/popover",
+  "version": "0.0.1",
+  "main": "./src/ohPopover.ets",
+  "module": "./index.ets",
+  "license": "ISC"
+}

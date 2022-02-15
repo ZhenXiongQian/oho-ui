@@ -53,7 +53,13 @@
         "pages": [
           "pages/index",
           "pages/progressDem",
-          "pages/swiperLayoutDem"
+          "pages/swiperLayoutDem",
+          "pages/cascaderDem",
+          "pages/popoverDem",
+          "pages/test",
+          "pages/dialogDem",
+          "pages/animateTest",
+          "pages/panelTest"
         ],
         "name": "default",
         "window": {
